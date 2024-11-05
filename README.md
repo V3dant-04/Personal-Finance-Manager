@@ -1,7 +1,7 @@
 # Personal Finance Manager
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![License](https://img.shields.io/github/license/yourusername/PersonalFinanceManager?style=for-the-badge)
+![License](https://img.shields.io/github/license/V3dant-04/Personal-Finance-Manager?style=for-the-badge)
 ![Build](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge)
 
 Personal Finance Manager is a Java-based desktop application designed to help users manage their personal finances effectively. This program allows users to track income, expenses, generate weekly and monthly reports, and visualize spending with charts.
@@ -10,6 +10,7 @@ Personal Finance Manager is a Java-based desktop application designed to help us
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -28,11 +29,11 @@ Personal Finance Manager is a Java-based desktop application designed to help us
 ### Steps
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/PersonalFinanceManager.git
+    git clone https://github.com/V3dant-04/Personal-Finance-Manager.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd PersonalFinanceManager
+    cd Personal-Finance-Manager
     ```
 3. Compile and run the application:
     ```bash
@@ -54,6 +55,9 @@ Personal Finance Manager is a Java-based desktop application designed to help us
 1. Click **"Generate Budget Chart"** to see a pie chart of expenses by category.
 2. To close the chart, click **"Close Chart"**.
 
+## Screenshots
+![Main Interface](https://yourimagelink.com/main_interface.png)
+*Main user interface for managing personal finances.*
 
 ## Contributing
 1. Fork the repository.
@@ -73,6 +77,3 @@ Personal Finance Manager is a Java-based desktop application designed to help us
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
