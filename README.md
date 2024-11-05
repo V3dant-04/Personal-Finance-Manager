@@ -10,7 +10,7 @@ Personal Finance Manager is a Java-based desktop application designed to help us
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
+- [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -55,10 +55,19 @@ Personal Finance Manager is a Java-based desktop application designed to help us
 1. Click **"Generate Budget Chart"** to see a pie chart of expenses by category.
 2. To close the chart, click **"Close Chart"**.
 
-## Screenshots
-![Main Interface](https://yourimagelink.com/main_interface.png)
-*Main user interface for managing personal finances.*
+## Project Structure
+Here is the directory structure of the project:
 
+```plaintext
+Personal-Finance-Manager/
+├── src/
+│   ├── main/
+│   │   ├── java/personalfinance/
+│   │   │   ├── FinanceManagerApp.java  # Main entry point of the application
+└── README.md
+└── .gitignore
+└── pom.xml
+```
 ## Contributing
 1. Fork the repository.
 2. Create a new branch for your feature:
@@ -77,3 +86,4 @@ Personal Finance Manager is a Java-based desktop application designed to help us
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
