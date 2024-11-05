@@ -1,4 +1,4 @@
-# Personal Finance Manager
+# Personal Finance Manager For Student
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![License](https://img.shields.io/github/license/V3dant-04/Personal-Finance-Manager?style=for-the-badge)
